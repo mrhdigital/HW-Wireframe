@@ -1,0 +1,15 @@
+body {
+    background-color: #777;
+}
+header, nav, footer {
+    background-color: #ebebeb;
+}
+section {
+    background-color: #ebebeb;
+}
+aside {
+    background-color: #ebebeb;
+}
+article {
+    background-color: #777;
+}
